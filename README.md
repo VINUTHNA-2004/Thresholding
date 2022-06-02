@@ -27,12 +27,13 @@ Use Otsu's method to segment the image.
 Display the results.
 
 ## Program
+```
 
 Developed By:D.R.Vinuthna.
 Register Number:212221230017
 
 
-```
+
 # Load the necessary packages
 
 import numpy as np
